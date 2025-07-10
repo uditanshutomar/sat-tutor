@@ -209,5 +209,3 @@ pip install -r requirements.txt --upgrade
 ```
 
 ---
-
-**Note**: This project is designed for educational purposes. Always verify AI-generated content and explanations for accuracy. 
